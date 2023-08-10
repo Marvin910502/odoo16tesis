@@ -3,7 +3,9 @@
 
 {
     'name': 'Tablero de aplicaciones',
-    'version': '1.0',
+    'version': '1.0.0',
+    'sequence': -1000,
+    'application': True,
     'category': 'Dashboard',
     'summary': 'Tablero de aplicaciones',
     'description': """
@@ -13,5 +15,5 @@ Este es un tablero de aplicaciones en donde los usuarios podran ver al iniciar s
     'data': [],
     'installable': True,
     'license': 'LGPL-3',
-    'aplication': True,
+    'author': 'Marvin Urías Moltó',
 }

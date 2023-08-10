@@ -1,7 +1,7 @@
 from odoo import api, fields, models
 
 
-class Apps_User(models.Model):
+class AppsUser(models.Model):
     _name = 'apps.user'
     _description = 'Apps User'
 
